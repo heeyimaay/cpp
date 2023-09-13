@@ -27,7 +27,7 @@ int main()
 
         cin >> func;
         //выбор ветки программы (свич)
-        /*switch (func)
+        switch (func)
         {
             //case = в случае
             case 1:
@@ -43,8 +43,8 @@ int main()
             default:
                 cout << "Vvedeno nevernoe chiclo! Povtorite popitku ";
 
-        }*/
-        if (func == 1) {
+        }
+        /*if (func == 1) {
             fxn = sinh(x);
         }
         else if (func == 2) {
@@ -54,7 +54,7 @@ int main()
         else if (func == 3) {
             fxn = exp(x);
         }
-        else cout << "Vvedeno nevernoe chiclo!Povtorite popitku ";
+        else cout << "Vvedeno nevernoe chiclo!Povtorite popitku ";*/
 
 
 
