@@ -28,21 +28,21 @@ int main()
         cin >> func;
         //выбор ветки программы (свич)
         /*switch (func)
-        {   
-            //case = в случае 
-            case 1: 
+        {
+            //case = в случае
+            case 1:
                 fxn = sinh(x);
                 break;
-            case 2: 
+            case 2:
                 fxn = pow(x, 2);
                 break;
-            case 3: 
+            case 3:
                 fxn = exp(x);
                 break;
             // если ни одного кейса не сработала то дефолт
-            default: 
+            default:
                 cout << "Vvedeno nevernoe chiclo! Povtorite popitku ";
-                
+
         }*/
         if (func == 1) {
             fxn = sinh(x);
